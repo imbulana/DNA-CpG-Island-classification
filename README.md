@@ -1,4 +1,4 @@
-Given a short sequence of DNA, identify whether it is from a CpG island via a Markov Model.
+Given a short sequence of DNA, identify whether it is contained in a CpG island via a Markov Model.
 
 Train/Test sequences:
 
